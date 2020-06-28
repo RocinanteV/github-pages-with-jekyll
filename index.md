@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This is a simple webpage that will act as a portfolio and display some of the projects that I have worked on.
